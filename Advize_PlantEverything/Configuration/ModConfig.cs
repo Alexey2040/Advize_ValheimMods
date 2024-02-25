@@ -309,17 +309,17 @@ namespace Advize_PlantEverything.Configuration
 			raspberryReturn = Config(
 				"Berries",
 				"RaspberryReturn",
-				1,
+				5,
 				"Number of berries a raspberry bush will spawn.");
 			blueberryReturn = Config(
 				"Berries",
 				"BlueberryReturn",
-				1,
+				5,
 				"Number of berries a blueberry bush will spawn.");
 			cloudberryReturn = Config(
 				"Berries",
 				"CloudberryReturn",
-				1,
+				5,
 				"Number of berries a cloudberry bush will spawn.");
 
 			//Crops
